@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 96b4a9a5624d91d49b9e3356965e3a80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 788170340639014183
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_0
+  - first:
+      213: 5689235378406094250
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_1
+  - first:
+      213: 472340058445680498
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_2
+  - first:
+      213: 8723931226208808526
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_3
+  - first:
+      213: -6844694875344983363
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_4
+  - first:
+      213: 1106019073073871669
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_5
+  - first:
+      213: 1034907941754486231
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_6
+  - first:
+      213: 863753150499212881
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_7
+  - first:
+      213: 3117273052902073964
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_8
+  - first:
+      213: -2698280989839188088
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_9
+  - first:
+      213: 2836202712270743501
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_10
+  - first:
+      213: -1344292049392809060
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_11
+  - first:
+      213: -1467291827009442049
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_12
+  - first:
+      213: -2446197089179919864
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_13
+  - first:
+      213: -7458776303990740955
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_14
+  - first:
+      213: 7643583242204154134
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_15
+  - first:
+      213: 127557427628406529
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_16
+  - first:
+      213: -819655469403736243
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_17
+  - first:
+      213: -2391606458930508885
+    second: 2995aabb-bbaa-4e89-9e53-f6b0167b0572_18
+  - first:
+      213: -2274135710000719348
+    second: Powersupply_0
+  - first:
+      213: 7793317958851572125
+    second: Powersupply_1
+  - first:
+      213: 7777629488525331989
+    second: Powersupply_2
+  - first:
+      213: -5936241167911730355
+    second: Powersupply_3
+  - first:
+      213: 2846737983122448491
+    second: Powersupply_4
+  - first:
+      213: 1869932514495782035
+    second: Powersupply_5
+  - first:
+      213: 5215089509558363750
+    second: Powersupply_6
+  - first:
+      213: -1171952735108976358
+    second: Powersupply_7
+  - first:
+      213: 6749919486403212486
+    second: Powersupply_8
+  - first:
+      213: -3128592105761796304
+    second: Powersupply_9
+  - first:
+      213: 7231199545899670259
+    second: Powersupply_10
+  - first:
+      213: 4209565036637085069
+    second: Powersupply_11
+  - first:
+      213: -7604059248800235838
+    second: Powersupply_12
+  - first:
+      213: 4587587631409617299
+    second: Powersupply_13
+  - first:
+      213: -8334847974362396187
+    second: Powersupply_14
+  - first:
+      213: -770039490909557317
+    second: Powersupply_15
+  - first:
+      213: 8514316387551417483
+    second: Powersupply_16
+  - first:
+      213: 4249918635464558549
+    second: Powersupply_17
+  - first:
+      213: 1283697130698146818
+    second: Powersupply_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Powersupply_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 830
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5062ee95a070e0800000000000000
+      internalID: -2274135710000719348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 836
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91350f846d672c60800000000000000
+      internalID: 7793317958851572125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 835
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ec72aefc0bfeb60800000000000000
+      internalID: 7777629488525331989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 676
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43429dfb1c3e9da0800000000000000
+      internalID: -5936241167911730355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 677
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6020acec15a18720800000000000000
+      internalID: 2846737983122448491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 683
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5970f6b553f910800000000000000
+      internalID: 1869932514495782035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 524
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a7193748bf5840800000000000000
+      internalID: 5215089509558363750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 524
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11384a52336cbfe0800000000000000
+      internalID: -1171952735108976358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 526
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4fc81a2088cad50800000000000000
+      internalID: 6749919486403212486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0af84e020594d0800000000000000
+      internalID: -3128592105761796304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 367
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad059aca16a5460800000000000000
+      internalID: 7231199545899670259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 368
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d58abf8116b6a30800000000000000
+      internalID: 4209565036637085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 209
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cefc38b664f87690800000000000000
+      internalID: -7604059248800235838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 205
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399552a05a26aaf30800000000000000
+      internalID: 4587587631409617299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 209
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ce3f5deba45c80800000000000000
+      internalID: -8334847974362396187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2051b9254055f0800000000000000
+      internalID: -770039490909557317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 30
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b841a49c4ade82670800000000000000
+      internalID: 8514316387551417483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 33
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78d2f5b7ebafa30800000000000000
+      internalID: 4249918635464558549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powersupply_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 32
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20483723dbb90d110800000000000000
+      internalID: 1283697130698146818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
