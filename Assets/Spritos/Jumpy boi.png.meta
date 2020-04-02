@@ -1,151 +1,82 @@
 fileFormatVersion: 2
-guid: 6d63d8a4d76aaee45b7a32825aa52c94
+guid: 7e537f030314c8b408583a6e7cd2d66a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1769036553957449704
-    second: Lizard_0
+      213: -5673129895467857035
+    second: Jumpy boi_0
   - first:
-      213: -6733174200419151310
-    second: Lizard_1
+      213: -9076751450613520015
+    second: Jumpy boi_1
   - first:
-      213: 1003212474510802115
-    second: Lizard_2
+      213: 4512298498959554948
+    second: Jumpy boi_2
   - first:
-      213: 5141789113320903921
-    second: Lizard_3
+      213: 2002711611541363773
+    second: Jumpy boi_3
   - first:
-      213: 3219637971312397983
-    second: Lizard_4
+      213: 963318827654936268
+    second: Jumpy boi_4
   - first:
-      213: -3008333464245668560
-    second: Lizard_5
+      213: -444613285942445703
+    second: Jumpy boi_5
   - first:
-      213: -1556888748303501760
-    second: Lizard_6
+      213: -4746919171008128786
+    second: Jumpy boi_6
   - first:
-      213: 8550352668096675460
-    second: Lizard_7
+      213: -3664035025651862695
+    second: Jumpy boi_7
   - first:
-      213: -4307951548172461433
-    second: Lizard_8
+      213: -4828208410185328210
+    second: Jumpy boi_8
   - first:
-      213: -5306251540658922802
-    second: Lizard_9
+      213: 4585035251453696348
+    second: Jumpy boi_9
   - first:
-      213: 7075276809258125448
-    second: Lizard_10
+      213: 7274777745776952219
+    second: Jumpy boi_10
   - first:
-      213: 7443515512081373405
-    second: Lizard_11
+      213: 560459655848903406
+    second: Jumpy boi_11
   - first:
-      213: 8037871551310660911
-    second: Lizard_12
+      213: -2203004185835068434
+    second: Jumpy boi_12
   - first:
-      213: -6622121702504038148
-    second: Lizard_13
+      213: -6282095080180314264
+    second: Jumpy boi_13
   - first:
-      213: -2285586717524772726
-    second: Lizard_14
+      213: -3909099547550428449
+    second: Jumpy boi_14
   - first:
-      213: -1012001876999097971
-    second: Lizard_15
+      213: -5974953549683924307
+    second: Jumpy boi_15
   - first:
-      213: 1963002832892561938
-    second: Infiltrator_0
+      213: 8754272231226026755
+    second: Jumpy boi_16
   - first:
-      213: 3878395678470836620
-    second: Infiltrator_1
+      213: -8278368849227288942
+    second: Jumpy boi_17
   - first:
-      213: -9011094026624085149
-    second: Infiltrator_2
+      213: 1075886424875112361
+    second: Jumpy boi_18
   - first:
-      213: -6266854737654858642
-    second: Infiltrator_3
+      213: 8817840076855938868
+    second: Jumpy boi_19
   - first:
-      213: -6152413152273497299
-    second: Infiltrator_4
+      213: 8699820010165753501
+    second: Jumpy boi_20
   - first:
-      213: 8441970263662063834
-    second: Infiltrator_5
+      213: 6705883092689789964
+    second: Jumpy boi_21
   - first:
-      213: 6134986592648992573
-    second: Infiltrator_6
+      213: -3842762129415116142
+    second: Jumpy boi_22
   - first:
-      213: -8527528534676118310
-    second: Infiltrator_7
+      213: -930159526024981128
+    second: Jumpy boi_23
   - first:
-      213: -8578426859752082612
-    second: Infiltrator_8
-  - first:
-      213: -8330504019509606756
-    second: Infiltrator_9
-  - first:
-      213: -1442967201683374601
-    second: Infiltrator_10
-  - first:
-      213: -385706346430457491
-    second: Infiltrator_11
-  - first:
-      213: 388861189088986863
-    second: Infiltrator_12
-  - first:
-      213: -4207460784346408527
-    second: Infiltrator_13
-  - first:
-      213: 1355076840299709255
-    second: Infiltrator_14
-  - first:
-      213: -7019970293063355255
-    second: Infiltrator_15
-  - first:
-      213: 6676098744744499066
-    second: Infiltrator_0
-  - first:
-      213: -7834912929963456573
-    second: Infiltrator_1
-  - first:
-      213: 8015489260114550348
-    second: Infiltrator_2
-  - first:
-      213: -4877532141555188700
-    second: Infiltrator_3
-  - first:
-      213: -690624018343896785
-    second: Infiltrator_4
-  - first:
-      213: -7989312924829822092
-    second: Infiltrator_5
-  - first:
-      213: 6992534776426381249
-    second: Infiltrator_6
-  - first:
-      213: -7358573413221203994
-    second: Infiltrator_7
-  - first:
-      213: -8555521760189956324
-    second: Infiltrator_8
-  - first:
-      213: 7439897796668165048
-    second: Infiltrator_9
-  - first:
-      213: -4907223232238622356
-    second: Infiltrator_10
-  - first:
-      213: -6670110320853029061
-    second: Infiltrator_11
-  - first:
-      213: -8422544591446333845
-    second: Infiltrator_12
-  - first:
-      213: -637748498814040144
-    second: Infiltrator_13
-  - first:
-      213: -6556242721108943677
-    second: Infiltrator_14
-  - first:
-      213: 1531445441890617229
-    second: Infiltrator_15
+      213: 6249846133115624422
+    second: Jumpy boi_24
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -254,7 +185,196 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Infiltrator_0
+      name: Jumpy boi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b4df7ea6ef441b0800000000000000
+      internalID: -5673129895467857035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796ba775a6e80280800000000000000
+      internalID: -9076751450613520015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489330fd397ee9e30800000000000000
+      internalID: 4512298498959554948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1971999f0bcb10800000000000000
+      internalID: 2002711611541363773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc671dfae556e5d00800000000000000
+      internalID: 963318827654936268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793bf4729a64d9f0800000000000000
+      internalID: -444613285942445703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8919a0a2e8f1eb0800000000000000
+      internalID: -4746919171008128786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537e6b9e8bb62dc0800000000000000
+      internalID: -3664035025651862695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea999592802cefcb0800000000000000
+      internalID: -4828208410185328210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy boi_9
       rect:
         serializedVersion: 2
         x: 0
@@ -268,14 +388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a775de5df6446ac50800000000000000
-      internalID: 6676098744744499066
+      spriteID: c599a85c44151af30800000000000000
+      internalID: 4585035251453696348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_1
+      name: Jumpy boi_10
       rect:
         serializedVersion: 2
         x: 251
@@ -289,14 +409,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c7c96b833cc44390800000000000000
-      internalID: -7834912929963456573
+      spriteID: b93c3fcf0d335f460800000000000000
+      internalID: 7274777745776952219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_2
+      name: Jumpy boi_11
       rect:
         serializedVersion: 2
         x: 502
@@ -310,14 +430,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4e1612a30dbc3f60800000000000000
-      internalID: 8015489260114550348
+      spriteID: ee2cfc9661727c700800000000000000
+      internalID: 560459655848903406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_3
+      name: Jumpy boi_12
       rect:
         serializedVersion: 2
         x: 0
@@ -331,14 +451,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42c7d0a0c568f4cb0800000000000000
-      internalID: -4877532141555188700
+      spriteID: ee32a907d5b5d61e0800000000000000
+      internalID: -2203004185835068434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_4
+      name: Jumpy boi_13
       rect:
         serializedVersion: 2
         x: 251
@@ -352,14 +472,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2952494d196a66f0800000000000000
-      internalID: -690624018343896785
+      spriteID: 86f8f9cfec381d8a0800000000000000
+      internalID: -6282095080180314264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_5
+      name: Jumpy boi_14
       rect:
         serializedVersion: 2
         x: 502
@@ -373,14 +493,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 473d41c5932402190800000000000000
-      internalID: -7989312924829822092
+      spriteID: fd2dd9c3ca610c9c0800000000000000
+      internalID: -3909099547550428449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_6
+      name: Jumpy boi_15
       rect:
         serializedVersion: 2
         x: 0
@@ -394,14 +514,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cfb574c4597a0160800000000000000
-      internalID: 6992534776426381249
+      spriteID: da261a93763b41da0800000000000000
+      internalID: -5974953549683924307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_7
+      name: Jumpy boi_16
       rect:
         serializedVersion: 2
         x: 251
@@ -415,14 +535,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eff053d77811e990800000000000000
-      internalID: -7358573413221203994
+      spriteID: 30b2b41563c6d7970800000000000000
+      internalID: 8754272231226026755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_8
+      name: Jumpy boi_17
       rect:
         serializedVersion: 2
         x: 502
@@ -436,14 +556,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1fb0c7c94ea44980800000000000000
-      internalID: -8555521760189956324
+      spriteID: 29ee52e64635d1d80800000000000000
+      internalID: -8278368849227288942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_9
+      name: Jumpy boi_18
       rect:
         serializedVersion: 2
         x: 0
@@ -457,14 +577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bb0e97b0a3df3760800000000000000
-      internalID: 7439897796668165048
+      spriteID: 9a7985dc0015eee00800000000000000
+      internalID: 1075886424875112361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_10
+      name: Jumpy boi_19
       rect:
         serializedVersion: 2
         x: 251
@@ -478,14 +598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c696fd8487a06ebb0800000000000000
-      internalID: -4907223232238622356
+      spriteID: 43f833bb4d24f5a70800000000000000
+      internalID: 8817840076855938868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_11
+      name: Jumpy boi_20
       rect:
         serializedVersion: 2
         x: 502
@@ -499,14 +619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3f63e0c0020f63a0800000000000000
-      internalID: -6670110320853029061
+      spriteID: d96d3c3a438fbb870800000000000000
+      internalID: 8699820010165753501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_12
+      name: Jumpy boi_21
       rect:
         serializedVersion: 2
         x: 0
@@ -520,14 +640,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6624f1915c1d1b80800000000000000
-      internalID: -8422544591446333845
+      spriteID: c04a21db425101d50800000000000000
+      internalID: 6705883092689789964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_13
+      name: Jumpy boi_22
       rect:
         serializedVersion: 2
         x: 251
@@ -541,14 +661,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b786288e134627f0800000000000000
-      internalID: -637748498814040144
+      spriteID: 29a63eff334cbaac0800000000000000
+      internalID: -3842762129415116142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_14
+      name: Jumpy boi_23
       rect:
         serializedVersion: 2
         x: 502
@@ -562,14 +682,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cc9f0b4bfb8305a0800000000000000
-      internalID: -6556242721108943677
+      spriteID: 875d5dad6d86713f0800000000000000
+      internalID: -930159526024981128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Infiltrator_15
+      name: Jumpy boi_24
       rect:
         serializedVersion: 2
         x: 0
@@ -583,8 +703,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8708c4f389c04510800000000000000
-      internalID: 1531445441890617229
+      spriteID: 6eb9439e1f9ebb650800000000000000
+      internalID: 6249846133115624422
       vertices: []
       indices: 
       edges: []
