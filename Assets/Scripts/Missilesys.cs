@@ -4,11 +4,22 @@ using UnityEngine;
 
 public class Missilesys : MonoBehaviour
 {
-
-    [SerializeField] float speed = 1f; //varmisspeed
+    [SerializeField] float fltspeed = 1f;
+    [SerializeField] float fltdamage = 50f;
 
     void Update()
     {
-        transform.Translate(Vector2.right * speed * Time.deltaTime); //varmisspeed
+        transform.Translate(Vector2.right * fltspeed * Time.deltaTime);
     }
-}
+
+    private void OnTriggerEnter2D(Collider2D externcollision)
+    {
+        var flthealth = externcollision.GetComponent<DMGsys>();
+        flthealth.reducehp(fltdamage);
+        Destroy(gameObject);
+    }
+
+
+
+} // Missilesys
+

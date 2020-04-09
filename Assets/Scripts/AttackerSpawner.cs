@@ -6,15 +6,15 @@ public class AttackerSpawner : MonoBehaviour
 {
     bool spawn = true;
 
-    [SerializeField] float minSpawnDelay = 1f;
-    [SerializeField] float maxSpawnDelay = 5f;
+    [SerializeField] float fltminSpawnDelay = 1f;
+    [SerializeField] float fltmaxSpawnDelay = 5f;
     [SerializeField] Attacker attackerPrefab;
 
     IEnumerator Start()
     {
         while (spawn)
         {
-            yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
+            yield return new WaitForSeconds(Random.Range(fltminSpawnDelay, fltmaxSpawnDelay));
             SpawnAttacker();
         }
     }

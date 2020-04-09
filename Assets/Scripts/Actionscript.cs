@@ -5,10 +5,9 @@ using UnityEngine;
 public class Actionscript : MonoBehaviour
 {
 
-    [SerializeField] GameObject projectile, bullet; //GOprojectiledef
-    
+    [SerializeField] GameObject projectile, bullet; 
 
-    public void Fire() //PubvoidFire(float vardamage)
+    public void Fire() 
     {
         Instantiate(projectile, bullet.transform.position, transform.rotation);
     }
