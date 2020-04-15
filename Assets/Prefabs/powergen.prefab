@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737561974299443361}
   - component: {fileID: 737561974299443360}
+  - component: {fileID: 1832690482}
   m_Layer: 0
   m_Name: powergen
   m_TagString: Untagged
@@ -52,6 +53,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1832690482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737561974299443367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f159ed9acfea1642a9183021d0a280a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  intMohnee: 100
 --- !u!1 &737561974381983505
 GameObject:
   m_ObjectHideFlags: 0

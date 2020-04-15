@@ -15,7 +15,7 @@ public class Missilesys : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D externcollision)
     {
         var flthealth = externcollision.GetComponent<DMGsys>();
-        flthealth.reducehp(fltdamage);
+        flthealth.reducehp(fltdamage); //This system is more streamlined than what is used in L139.        
         Destroy(gameObject);
     }
 
