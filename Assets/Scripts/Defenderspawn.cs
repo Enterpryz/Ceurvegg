@@ -4,18 +4,33 @@ using UnityEngine;
 
 public class Defenderspawn : MonoBehaviour
 {
-    Defender GOdefender;
+    Defender defender;
    
     
     private void OnMouseDown()
     {
-        DeployDef(GetSquareClicked());
+        AttemptToPlaceDefenderAt(GetSquareClicked());
     }
 
     public void SetSelectedDefender(Defender defenderToSelect) 
     {
-        GOdefender = defenderToSelect;
+        defender = defenderToSelect;
     }
+
+    private void AttemptToPlaceDefenderAt(Vector2 gridPos)
+    {
+        var Moneysys = FindObjectOfType<Moneysys>();
+        int defenderCost = defender.GetDefCost();
+        if (Moneysys.HaveMoney(defenderCost))
+        {
+            DeployDef(gridPos);
+            Moneysys.SpendMoney(defenderCost);
+        }
+    }
+
+
+
+
 
     private Vector2 GetSquareClicked()
     {
@@ -35,7 +50,7 @@ public class Defenderspawn : MonoBehaviour
 
     private void DeployDef(Vector2 roundedPos)
     {
-        Defender GODefnew = Instantiate(GOdefender, roundedPos, Quaternion.identity) as Defender;
+        Defender GODefnew = Instantiate(defender, roundedPos, Quaternion.identity) as Defender;
         Debug.Log(roundedPos);
     }
 

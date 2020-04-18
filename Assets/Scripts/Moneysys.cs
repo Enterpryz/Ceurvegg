@@ -6,18 +6,23 @@ using UnityEngine.UI;
 public class Moneysys : MonoBehaviour
 {
     [SerializeField] int intMoney = 100;
-    Text Mohneetext;
+    Text Moneytext;
 
 
     void Start()
     {
-        Mohneetext = GetComponent <Text>();
+        Moneytext = GetComponent <Text>();
         UpdateDisplay();
     }
 
     private void UpdateDisplay()
     {
-        Mohneetext.text = intMoney.ToString();
+        Moneytext.text = intMoney.ToString();
+    }
+
+    public bool HaveMoney(int amount)
+    {
+        return intMoney >= amount;
     }
 
     public void AddMoney(int amount)
