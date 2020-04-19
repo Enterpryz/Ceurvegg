@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Infiltrator
+  m_Name: Infiltrator2
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -133,5 +133,5 @@ AnimationClip:
     objectReferenceParameter: {fileID: 260152805613424559, guid: 04c07a88732df2e44957a5aecf4b184d,
       type: 3}
     floatParameter: 1
-    intParameter: 0
+    intParameter: 1
     messageOptions: 0
