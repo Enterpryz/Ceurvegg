@@ -65,6 +65,4 @@ public class Actionscript : MonoBehaviour
     {
         Instantiate(projectile, bullet.transform.position, transform.rotation);
     }
-
-
 }
