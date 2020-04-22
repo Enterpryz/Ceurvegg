@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fltspeed: 6.9
-  fltdamage: 10
+  fltdamage: 20
 --- !u!61 &9197624832731437308
 BoxCollider2D:
   m_ObjectHideFlags: 0
