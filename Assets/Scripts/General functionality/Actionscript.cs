@@ -8,10 +8,12 @@ public class Actionscript : MonoBehaviour
     [SerializeField] GameObject bullet;
     [SerializeField] GameObject projectile;
     AttackerSpawner myLaneSpawner;
+    Animator varanimator;
 
     private void Start()
     {
         SetLaneSpawner();
+        varanimator = GetComponent<Animator>();
     }
         
     
@@ -20,11 +22,11 @@ public class Actionscript : MonoBehaviour
     {
         if (IsAttackerInLane())
         {
-            Debug.Log("BANG POW POP WOLLOP");
+            varanimator.SetBool("isAttacking", true);
         }
         else
         {
-            Debug.Log("Vibe time");
+            varanimator.SetBool("isAttacking", false);
         }
     }
 
