@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8047855410215915576}
   - component: {fileID: 1024572909}
+  - component: {fileID: 6528651020496130406}
   m_Layer: 0
   m_Name: Reiseatk 1
   m_TagString: Untagged
@@ -45,6 +46,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   intMoney: 100
+--- !u!114 &6528651020496130406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349543913838314719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dca3b7fc2e74b549918b35c5225c526, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 5112837280772146840}
+  projectile: {fileID: 3692620892450348854, guid: 1f8d6f77a4341884fad669e9407efd5c,
+    type: 3}
 --- !u!1 &5112837279047559631
 GameObject:
   m_ObjectHideFlags: 0
@@ -57,7 +73,6 @@ GameObject:
   - component: {fileID: 5112837279047559627}
   - component: {fileID: 5112837279047559624}
   - component: {fileID: 5112837279047559625}
-  - component: {fileID: 5112837279047559630}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -163,21 +178,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &5112837279047559630
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5112837279047559631}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0dca3b7fc2e74b549918b35c5225c526, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bullet: {fileID: 5112837280772146840}
-  projectile: {fileID: 3692620892450348854, guid: 1f8d6f77a4341884fad669e9407efd5c,
-    type: 3}
 --- !u!1 &5112837280772146840
 GameObject:
   m_ObjectHideFlags: 0

@@ -188,6 +188,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: powergen
       objectReference: {fileID: 0}
+    - target: {fileID: 737561974381983506, guid: b86f9ce8561222143b5cd595be71827c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 737561974381983506, guid: b86f9ce8561222143b5cd595be71827c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b86f9ce8561222143b5cd595be71827c, type: 3}
 --- !u!1 &36345890
@@ -591,8 +601,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943f3751ad5309c49b039b751106676f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fltminSpawnDelay: 1
-  fltmaxSpawnDelay: 5
+  fltminSpawnDelay: 6
+  fltmaxSpawnDelay: 11
   attackerPrefab: {fileID: 260152805613424547, guid: 04c07a88732df2e44957a5aecf4b184d,
     type: 3}
 --- !u!4 &346236603
@@ -1441,8 +1451,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943f3751ad5309c49b039b751106676f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fltminSpawnDelay: 1
-  fltmaxSpawnDelay: 5
+  fltminSpawnDelay: 6
+  fltmaxSpawnDelay: 11
   attackerPrefab: {fileID: 260152805613424547, guid: 04c07a88732df2e44957a5aecf4b184d,
     type: 3}
 --- !u!4 &1097334679
@@ -2160,7 +2170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a02b4a136edc8f1459e9a28eb29092ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  intMoney: 1000
+  intMoney: 5000
 --- !u!114 &1646906273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2406,8 +2416,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943f3751ad5309c49b039b751106676f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fltminSpawnDelay: 1
-  fltmaxSpawnDelay: 5
+  fltminSpawnDelay: 6
+  fltmaxSpawnDelay: 11
   attackerPrefab: {fileID: 260152805613424547, guid: 04c07a88732df2e44957a5aecf4b184d,
     type: 3}
 --- !u!4 &2006745151
@@ -2522,8 +2532,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943f3751ad5309c49b039b751106676f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fltminSpawnDelay: 1
-  fltmaxSpawnDelay: 5
+  fltminSpawnDelay: 6
+  fltmaxSpawnDelay: 11
   attackerPrefab: {fileID: 260152805613424547, guid: 04c07a88732df2e44957a5aecf4b184d,
     type: 3}
 --- !u!4 &2066087637
@@ -2650,8 +2660,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943f3751ad5309c49b039b751106676f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fltminSpawnDelay: 1
-  fltmaxSpawnDelay: 5
+  fltminSpawnDelay: 6
+  fltmaxSpawnDelay: 11
   attackerPrefab: {fileID: 260152805613424547, guid: 04c07a88732df2e44957a5aecf4b184d,
     type: 3}
 --- !u!4 &2104845483
@@ -2769,12 +2779,12 @@ PrefabInstance:
     - target: {fileID: 1123203811426916071, guid: 3cc8b518ee6e1544792c6a03cc69aa4e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.4
+      value: -0.289
       objectReference: {fileID: 0}
     - target: {fileID: 1123203811426916071, guid: 3cc8b518ee6e1544792c6a03cc69aa4e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.25
+      value: -1.667
       objectReference: {fileID: 0}
     - target: {fileID: 1123203811426916071, guid: 3cc8b518ee6e1544792c6a03cc69aa4e,
         type: 3}
@@ -2838,12 +2848,12 @@ PrefabInstance:
     - target: {fileID: 4728506634580184310, guid: 5e3ed0b117a26e348ab1cd02bb53fbb4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.87
+      value: -1.759
       objectReference: {fileID: 0}
     - target: {fileID: 4728506634580184310, guid: 5e3ed0b117a26e348ab1cd02bb53fbb4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.69
+      value: -1.719
       objectReference: {fileID: 0}
     - target: {fileID: 4728506634580184310, guid: 5e3ed0b117a26e348ab1cd02bb53fbb4,
         type: 3}

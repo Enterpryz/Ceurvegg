@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Actionscript : MonoBehaviour
+public class Shooter: MonoBehaviour
 {
 
     [SerializeField] GameObject bullet;

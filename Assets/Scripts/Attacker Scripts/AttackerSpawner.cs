@@ -27,9 +27,4 @@ public class AttackerSpawner : MonoBehaviour
         newAttacker.transform.parent = transform; //This basically tells the spawner what, where, when, and how (maybe not how) it is, it gives it its identity.
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
