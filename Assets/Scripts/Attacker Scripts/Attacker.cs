@@ -6,7 +6,7 @@ public class Attacker : MonoBehaviour
 {
     [SerializeField] float flthealth = 100f;
     [SerializeField] int intDMGdelay = 4;
-
+    GameObject CurrentTarget;
 
     [Range (0f, 5f)]
     float fltcurrentSpeed = 1f;
@@ -33,6 +33,10 @@ public class Attacker : MonoBehaviour
         fltcurrentSpeed = speed;
     }
 
-
+    public void Attack(GameObject target)
+    {
+        GetComponent<Animator>().SetBool("IsAttacking", true);
+        CurrentTarget = target;
+    }
 
 }
